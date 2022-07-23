@@ -5,3 +5,7 @@
  
 ## Css: 
 Link: https://picocss.com/
+
+## Deploy:
+Link: https://geolocationip.netlify.app/
+
